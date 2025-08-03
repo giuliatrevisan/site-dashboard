@@ -1,7 +1,7 @@
 
-# Dashboard - Teste Técnico Elektos
+# Dashboard - Elektos
 
-Este projeto é uma solução desenvolvida para o **teste técnico da vaga de Desenvolvedor Frontend** na empresa **Flori Tech**. O objetivo é construir uma aplicação web responsiva, funcional e organizada utilizando **React** e boas práticas de desenvolvimento.
+Este projeto é uma solução desenvolvida para a**Flori Tech**. O objetivo é construir uma aplicação web responsiva, funcional e organizada utilizando **React** e boas práticas de desenvolvimento.
 
 ---
 
@@ -154,3 +154,4 @@ O repositório foi disponibilizado de forma pública e enviado conforme solicita
 ---
 
 Desenvolvido com dedicação por **Giulia Trevisan** ✨
+
